@@ -1,0 +1,9 @@
+{
+  "name": "promisesOhOoooh",
+  "description": "An small experiment about promises",
+  "version": "0.0.1",
+  "dependencies": {
+    "chai": "^1.5.0",
+    "mocha": "^1.17.1
+  }
+}
