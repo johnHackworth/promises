@@ -1,5 +1,4 @@
-// well,I normally would use Q (or Async, but I like Q better), but to make a promise  module
-// is easy and fun and I'm not sure if you would rather preffer that I use only self-make modules, so...
+// Do yourself a favor and use Q ;)
 
 var Promise = function() {
   this.callbacks = [];
